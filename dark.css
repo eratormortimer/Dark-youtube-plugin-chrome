@@ -742,3 +742,47 @@ body .yt-uix-button-subscribed-branded.hover-enabled:hover .unsubscribe-hh-label
 #masthead-search .search-btn-component .yt-uix-button-content {
 	background-position: -16px -242px !important;
 }
+
+/*Additions from User to cover recent changes of the Youtube layout and to change the color back to black */
+#page-container {
+background-color: black;
+color: black;
+background: black;
+}
+#body-container {
+background-color: black;
+background: black;
+color: black;
+}
+#guide-container {
+background-color: black;
+background: black;
+color: black;
+}
+.watch-sidebar-body {
+background-color: black;
+background: black;
+color: black;
+}
+.watch-playlist-drawer {
+color: white;
+}
+.messages-area {
+color: white;
+}
+.playlist-addto-title-options {
+color: white;
+}
+#watch-channel-brand-div {
+background-color: black;
+}
+#watch7-main-container {
+background-color: black;
+background: black;
+color: white;
+}     
+#player-legacy {
+background-color: black;
+background: black;
+color: white;
+} 
